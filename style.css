@@ -116,3 +116,8 @@ body {
     color: #7aaaff;
     letter-spacing: 0.5px;
 }
+.world {
+    color: #777;
+    font-size: 12px;
+    margin-top: 20px;
+}
