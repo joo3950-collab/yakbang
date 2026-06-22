@@ -62,3 +62,8 @@ nav a {
     image-rendering: pixelated;
     filter: contrast(1.1) brightness(0.9);
 }
+img {
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+}
