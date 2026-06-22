@@ -54,3 +54,11 @@ footer {
 nav a {
     margin-right: 10px;
 }
+.banner {
+    width: 100%;
+    max-width: 700px;
+    display: block;
+    margin: 0 auto 30px auto;
+    image-rendering: pixelated;
+    filter: contrast(1.1) brightness(0.9);
+}
